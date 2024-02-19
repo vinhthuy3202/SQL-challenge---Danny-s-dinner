@@ -11,3 +11,5 @@ Danny has shared with you 3 key datasets for this case study:
 - sales
 - menu
 - members
+
+-- This project helps to improve the MERGE statement in SQL
